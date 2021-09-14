@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "projekt-driving"
+  },
+  "targets": {
+    "projekt-driving": {
+      "hosting": {
+        "admin": [
+          "driving-admin.web.app"
+        ]
+      }
+    }
+  }
+}
